@@ -1,0 +1,129 @@
+16d PM 9h 53m 26s   Go out  3h 5m 49s   
+17d AM 0h 59m 16s   Dress up  0h 1m 9s   
+17d AM 1h 0m 25s   Wash and Brush  0h 3m 38s   
+17d AM 1h 4m 4s   Sleep  8h 14m 58s   
+17d AM 9h 19m 3s   Wash and Brush  0h 3m 38s   
+17d AM 9h 22m 41s   Relax  0h 9m 28s   
+17d AM 9h 32m 10s   Go to Toilet  0h 1m 3s   
+17d AM 9h 33m 14s   Relax  1h 39m 35s   
+17d AM 11h 12m 49s   Eat  0h 24m 54s   
+17d AM 11h 37m 44s   Relax  1h 18m 31s   
+17d PM 0h 56m 15s   Go to Toilet  0h 0m 58s   
+17d PM 0h 57m 13s   Relax  0h 39m 38s   
+17d PM 1h 36m 52s   Wander  0h 0m 24s   
+17d PM 1h 37m 16s   Relax  1h 25m 31s   
+17d PM 3h 2m 48s   Read  2h 15m 0s   
+17d PM 5h 17m 49s   Go to Toilet  0h 1m 3s   
+17d PM 5h 18m 52s   Watch TV  2h 41m 4s   
+17d PM 7h 59m 57s   Go to Toilet  0h 1m 2s   
+17d PM 8h 0m 59s   Eat  0h 24m 27s   
+17d PM 8h 25m 26s   Dress up  0h 1m 16s   
+17d PM 8h 26m 43s   Go out  3h 23m 33s   
+17d PM 11h 50m 16s   Dress up  0h 1m 16s   
+17d PM 11h 51m 32s   Clean  0h 22m 11s   
+18d AM 0h 13m 44s   Wash and Brush  0h 3m 41s   
+18d AM 0h 17m 25s   Sleep  8h 22m 24s   
+18d AM 8h 39m 50s   Wash and Brush  0h 3m 41s   
+18d AM 8h 43m 32s   Relax  1h 17m 26s   
+18d AM 10h 0m 58s   Go to Toilet  0h 1m 1s   
+18d AM 10h 2m 0s   Relax  0h 59m 44s   
+18d AM 11h 1m 45s   Eat  0h 24m 10s   
+18d AM 11h 25m 55s   Relax  1h 36m 44s   
+18d PM 1h 2m 39s   Go to Toilet  0h 1m 0s   
+18d PM 1h 3m 40s   Relax  1h 52m 47s   
+18d PM 2h 56m 28s   Dress up  0h 0m 59s   
+18d PM 2h 57m 27s   Go out  2h 37m 55s   
+18d PM 5h 35m 23s   Dress up  0h 0m 59s   
+18d PM 5h 36m 22s   Relax  0h 31m 55s   
+18d PM 6h 8m 18s   Bath  0h 19m 23s   
+18d PM 6h 27m 41s   Dress up  0h 1m 35s   
+18d PM 6h 29m 16s   Wash Clothes  0h 0m 44s   
+18d PM 6h 30m 0s   Wander  0h 0m 24s   
+18d PM 6h 30m 25s   Relax  0h 15m 9s   
+18d PM 6h 45m 35s   Go to Toilet  0h 1m 2s   
+18d PM 6h 46m 37s   Relax  1h 10m 50s   
+18d PM 7h 57m 28s   Go to Toilet  0h 8m 50s   
+18d PM 8h 6m 18s   Relax  0h 13m 49s   
+18d PM 8h 20m 8s   Wash Clothes  0h 0m 44s   
+18d PM 8h 20m 52s   Relax  0h 19m 47s   
+18d PM 8h 40m 40s   Clean  0h 21m 46s   
+18d PM 9h 2m 26s   Relax  0h 13m 10s   
+18d PM 9h 15m 36s   Go to Toilet  0h 1m 2s   
+18d PM 9h 16m 38s   Relax  1h 21m 20s   
+18d PM 10h 37m 58s   Wash and Brush  0h 3m 42s   
+18d PM 10h 41m 41s   Sleep  8h 24m 58s   
+19d AM 7h 6m 39s   Wash and Brush  0h 3m 42s   
+19d AM 7h 10m 22s   Eat  0h 24m 6s   
+19d AM 7h 34m 29s   Relax  0h 17m 10s   
+19d AM 7h 51m 39s   Go to Toilet  0h 0m 59s   
+19d AM 7h 52m 39s   Watch TV  2h 32m 8s   
+19d AM 10h 24m 47s   Relax  0h 15m 59s   
+19d AM 10h 40m 46s   Dress up  0h 0m 59s   
+19d AM 10h 41m 45s   Go out  2h 37m 50s   
+19d PM 1h 19m 36s   Dress up  0h 0m 59s   
+19d PM 1h 20m 35s   Relax  2h 55m 31s   
+19d PM 4h 16m 6s   Go to Toilet  0h 1m 0s   
+19d PM 4h 17m 7s   Relax  0h 54m 40s   
+19d PM 5h 11m 47s   Eat  0h 24m 36s   
+19d PM 5h 36m 23s   Relax  1h 8m 25s   
+19d PM 6h 44m 48s   Go to Toilet  0h 0m 58s   
+19d PM 6h 45m 47s   Relax  1h 30m 5s   
+19d PM 8h 15m 53s   Clean  0h 22m 42s   
+19d PM 8h 38m 35s   Dress up  0h 1m 20s   
+19d PM 8h 39m 56s   Go out  3h 35m 45s   
+20d AM 0h 15m 42s   Dress up  0h 1m 20s   
+20d AM 0h 17m 3s   Wash and Brush  0h 3m 43s   
+20d AM 0h 20m 46s   Sleep  8h 26m 2s   
+20d AM 8h 46m 49s   Wash and Brush  0h 3m 43s   
+20d AM 8h 50m 32s   Wander  0h 0m 23s   
+20d AM 8h 50m 55s   Relax  1h 44m 44s   
+20d AM 10h 35m 40s   Go to Toilet  0h 1m 3s   
+20d AM 10h 36m 44s   Relax  0h 34m 3s   
+20d AM 11h 10m 47s   Eat  0h 22m 50s   
+20d AM 11h 33m 38s   Relax  1h 47m 44s   
+20d PM 1h 21m 22s   Go to Toilet  0h 0m 58s   
+20d PM 1h 22m 21s   Watch TV  1h 12m 59s   
+20d PM 2h 35m 20s   Relax  1h 48m 29s   
+20d PM 4h 23m 50s   Go to Toilet  0h 1m 2s   
+20d PM 4h 24m 52s   Relax  0h 56m 11s   
+20d PM 5h 21m 4s   Eat  0h 24m 34s   
+20d PM 5h 45m 38s   Relax  0h 8m 46s   
+20d PM 5h 54m 24s   Bath  0h 19m 7s   
+20d PM 6h 13m 32s   Dress up  0h 1m 33s   
+20d PM 6h 15m 6s   Wash Clothes  0h 0m 43s   
+20d PM 6h 15m 49s   Dress up  0h 0m 48s   
+20d PM 6h 16m 38s   Go out  2h 9m 4s   
+20d PM 8h 25m 43s   Dress up  0h 0m 48s   
+20d PM 8h 26m 31s   Relax  0h 11m 1s   
+20d PM 8h 37m 33s   Read  2h 40m 29s   
+20d PM 11h 18m 2s   Go to Toilet  0h 1m 4s   
+20d PM 11h 19m 6s   Wash and Brush  0h 3m 37s   
+20d PM 11h 22m 44s   Sleep  8h 12m 39s   
+21d AM 7h 35m 23s   Wash and Brush  0h 3m 37s   
+21d AM 7h 39m 1s   Eat  0h 23m 1s   
+21d AM 8h 2m 2s   Clean  0h 22m 32s   
+21d AM 8h 24m 35s   Watch TV  1h 44m 21s   
+21d AM 10h 8m 56s   Go to Toilet  0h 1m 0s   
+21d AM 10h 9m 56s   Wash Clothes  0h 0m 43s   
+21d AM 10h 10m 40s   Wander  0h 0m 24s   
+21d AM 10h 11m 5s   Relax  0h 34m 8s   
+21d AM 10h 45m 14s   Dress up  0h 0m 51s   
+21d AM 10h 46m 5s   Go out  2h 18m 27s   
+21d PM 1h 4m 33s   Dress up  0h 0m 51s   
+21d PM 1h 5m 25s   Relax  0h 37m 4s   
+21d PM 1h 42m 29s   Go to Toilet  0h 1m 3s   
+21d PM 1h 43m 33s   Relax  2h 52m 10s   
+21d PM 4h 35m 43s   Go to Toilet  0h 1m 0s   
+21d PM 4h 36m 44s   Relax  0h 35m 43s   
+21d PM 5h 12m 27s   Eat  0h 23m 49s   
+21d PM 5h 36m 17s   Relax  1h 56m 42s   
+21d PM 7h 32m 59s   Go to Toilet  0h 1m 1s   
+21d PM 7h 34m 1s   Relax  0h 17m 2s   
+21d PM 7h 51m 3s   Dress up  0h 0m 59s   
+21d PM 7h 52m 3s   Go out  2h 38m 27s   
+21d PM 10h 30m 30s   Dress up  0h 0m 59s   
+21d PM 10h 31m 29s   Relax  0h 12m 4s   
+21d PM 10h 43m 34s   Clean  0h 22m 28s   
+21d PM 11h 6m 2s   Relax  0h 8m 16s   
+21d PM 11h 14m 19s   Eat  0h 23m 4s   
+21d PM 11h 37m 24s   Watch TV  2h 5m 38s   

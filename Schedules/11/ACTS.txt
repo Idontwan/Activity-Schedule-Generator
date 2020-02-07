@@ -1,0 +1,175 @@
+0d PM 10h 9m 9s   Go out  3h 30m 58s   
+1d AM 1h 40m 7s   Dress up  0h 1m 59s   
+1d AM 1h 42m 7s   Wash and Brush  0h 4m 42s   
+1d AM 1h 46m 49s   Sleep  7h 23m 50s   
+1d AM 9h 10m 40s   Wash and Brush  0h 4m 42s   
+1d AM 9h 15m 22s   Relax  0h 11m 41s   
+1d AM 9h 27m 4s   Bath  0h 16m 26s   
+1d AM 9h 43m 30s   Dress up  0h 2m 56s   
+1d AM 9h 46m 27s   Wash Clothes  0h 0m 22s   
+1d AM 9h 46m 50s   Read  2h 2m 35s   
+1d AM 11h 49m 25s   Take Food  0h 0m 51s   
+1d AM 11h 50m 17s   Cook  0h 10m 53s   
+1d PM 0h 1m 10s   Take TableWare  0h 1m 24s   
+1d PM 0h 2m 35s   Eat  0h 20m 41s   
+1d PM 0h 23m 17s   Wash Clothes  0h 0m 23s   
+1d PM 0h 23m 40s   Relax  0h 20m 53s   
+1d PM 0h 44m 34s   Go to Toilet  0h 1m 1s   
+1d PM 0h 45m 36s   Relax  0h 42m 13s   
+1d PM 1h 27m 50s   Watch TV  1h 21m 22s   
+1d PM 2h 49m 12s   Read  2h 13m 15s   
+1d PM 5h 2m 28s   Sleep  0h 34m 13s   
+1d PM 5h 36m 41s   Go to Toilet  0h 12m 58s   
+1d PM 5h 49m 40s   Take Food  0h 0m 48s   
+1d PM 5h 50m 28s   Cook  0h 10m 11s   
+1d PM 6h 0m 39s   Take TableWare  0h 1m 19s   
+1d PM 6h 1m 59s   Eat  0h 19m 21s   
+1d PM 6h 21m 20s   Relax  0h 35m 10s   
+1d PM 6h 56m 30s   Go to Toilet  0h 1m 5s   
+1d PM 6h 57m 35s   Relax  1h 35m 44s   
+1d PM 8h 33m 20s   Clean  0h 25m 8s   
+1d PM 8h 58m 29s   Relax  1h 25m 32s   
+1d PM 10h 24m 2s   Read  1h 19m 18s   
+1d PM 11h 43m 20s   Wash and Brush  0h 4m 41s   
+1d PM 11h 48m 2s   Sleep  7h 23m 25s   
+2d AM 7h 11m 27s   Wash and Brush  0h 4m 41s   
+2d AM 7h 16m 9s   Relax  0h 17m 4s   
+2d AM 7h 33m 13s   Take Food  0h 0m 48s   
+2d AM 7h 34m 1s   Cook  0h 10m 9s   
+2d AM 7h 44m 11s   Take TableWare  0h 1m 19s   
+2d AM 7h 45m 30s   Eat  0h 19m 18s   
+2d AM 8h 4m 49s   Go to Toilet  0h 1m 1s   
+2d AM 8h 5m 51s   Relax  0h 30m 3s   
+2d AM 8h 35m 55s   Bath  0h 16m 56s   
+2d AM 8h 52m 51s   Dress up  0h 3m 2s   
+2d AM 8h 55m 53s   Wash Clothes  0h 0m 23s   
+2d AM 8h 56m 16s   Relax  1h 14m 44s   
+2d AM 10h 11m 1s   Wash Clothes  0h 0m 22s   
+2d AM 10h 11m 23s   Relax  0h 29m 9s   
+2d AM 10h 40m 33s   Take Food  0h 0m 48s   
+2d AM 10h 41m 22s   Cook  0h 10m 16s   
+2d AM 10h 51m 38s   Take TableWare  0h 1m 20s   
+2d AM 10h 52m 58s   Eat  0h 19m 30s   
+2d AM 11h 12m 28s   Read  2h 52m 0s   
+2d PM 2h 4m 29s   Go to Toilet  0h 1m 3s   
+2d PM 2h 5m 32s   Relax  0h 10m 5s   
+2d PM 2h 15m 37s   Go to Toilet  0h 13m 22s   
+2d PM 2h 29m 0s   Relax  0h 18m 32s   
+2d PM 2h 47m 32s   Sleep  0h 34m 8s   
+2d PM 3h 21m 40s   Relax  2h 26m 35s   
+2d PM 5h 48m 15s   Take Food  0h 0m 48s   
+2d PM 5h 49m 4s   Cook  0h 10m 16s   
+2d PM 5h 59m 21s   Take TableWare  0h 1m 20s   
+2d PM 6h 0m 41s   Eat  0h 19m 31s   
+2d PM 6h 20m 13s   Relax  0h 44m 19s   
+2d PM 7h 4m 32s   Go to Toilet  0h 1m 4s   
+2d PM 7h 5m 37s   Relax  1h 39m 52s   
+2d PM 8h 45m 29s   Clean  0h 25m 15s   
+2d PM 9h 10m 45s   Relax  1h 13m 41s   
+2d PM 10h 24m 26s   Read  2h 36m 55s   
+3d AM 1h 1m 22s   Take Food  0h 0m 51s   
+3d AM 1h 2m 13s   Cook  0h 10m 54s   
+3d AM 1h 13m 8s   Take TableWare  0h 1m 24s   
+3d AM 1h 14m 33s   Eat  0h 20m 43s   
+3d AM 1h 35m 16s   Go to Toilet  0h 1m 5s   
+3d AM 1h 36m 22s   Relax  0h 33m 34s   
+3d AM 2h 9m 56s   Bath  0h 16m 42s   
+3d AM 2h 26m 38s   Dress up  0h 2m 59s   
+3d AM 2h 29m 38s   Wash Clothes  0h 0m 23s   
+3d AM 2h 30m 1s   Wash and Brush  0h 4m 44s   
+3d AM 2h 34m 45s   Sleep  7h 27m 21s   
+3d AM 10h 2m 6s   Wash and Brush  0h 4m 44s   
+3d AM 10h 6m 51s   Relax  0h 14m 12s   
+3d AM 10h 21m 3s   Dress up  0h 2m 11s   
+3d AM 10h 23m 14s   Go out  3h 51m 7s   
+3d PM 2h 14m 22s   Dress up  0h 2m 11s   
+3d PM 2h 16m 33s   Wash Clothes  0h 0m 23s   
+3d PM 2h 16m 57s   Watch TV  1h 4m 36s   
+3d PM 3h 21m 33s   Read  2h 2m 48s   
+3d PM 5h 24m 22s   Sleep  0h 32m 8s   
+3d PM 5h 56m 30s   Take Food  0h 0m 48s   
+3d PM 5h 57m 19s   Cook  0h 10m 15s   
+3d PM 6h 7m 34s   Take TableWare  0h 1m 19s   
+3d PM 6h 8m 54s   Eat  0h 19m 29s   
+3d PM 6h 28m 23s   Relax  1h 4m 58s   
+3d PM 7h 33m 22s   Go to Toilet  0h 1m 5s   
+3d PM 7h 34m 27s   Relax  1h 27m 55s   
+3d PM 9h 2m 22s   Clean  0h 24m 14s   
+3d PM 9h 26m 37s   Relax  1h 27m 41s   
+3d PM 10h 54m 19s   Read  1h 28m 46s   
+4d AM 0h 23m 5s   Take Food  0h 0m 48s   
+4d AM 0h 23m 53s   Cook  0h 10m 12s   
+4d AM 0h 34m 6s   Take TableWare  0h 1m 19s   
+4d AM 0h 35m 26s   Eat  0h 19m 24s   
+4d AM 0h 54m 50s   Wash and Brush  0h 4m 35s   
+4d AM 0h 59m 26s   Sleep  7h 13m 11s   
+4d AM 8h 12m 38s   Wash and Brush  0h 4m 35s   
+4d AM 8h 17m 13s   Relax  0h 16m 42s   
+4d AM 8h 33m 55s   Go to Toilet  0h 1m 1s   
+4d AM 8h 34m 56s   Relax  0h 53m 52s   
+4d AM 9h 28m 49s   Bath  0h 16m 50s   
+4d AM 9h 45m 39s   Dress up  0h 3m 1s   
+4d AM 9h 48m 40s   Wash Clothes  0h 0m 23s   
+4d AM 9h 49m 4s   Relax  0h 37m 29s   
+4d AM 10h 26m 34s   Take Food  0h 0m 50s   
+4d AM 10h 27m 24s   Cook  0h 10m 43s   
+4d AM 10h 38m 8s   Take TableWare  0h 1m 23s   
+4d AM 10h 39m 32s   Eat  0h 20m 23s   
+4d AM 10h 59m 56s   Relax  0h 13m 10s   
+4d AM 11h 13m 6s   Wash Clothes  0h 0m 22s   
+4d AM 11h 13m 28s   Relax  0h 9m 18s   
+4d AM 11h 22m 46s   Read  2h 12m 21s   
+4d PM 1h 35m 7s   Go to Toilet  0h 13m 29s   
+4d PM 1h 48m 37s   Relax  0h 12m 47s   
+4d PM 2h 1m 25s   Go to Toilet  0h 1m 5s   
+4d PM 2h 2m 30s   Sleep  0h 34m 34s   
+4d PM 2h 37m 4s   Relax  2h 29m 52s   
+4d PM 5h 6m 56s   Take Food  0h 0m 47s   
+4d PM 5h 7m 44s   Cook  0h 10m 1s   
+4d PM 5h 17m 45s   Take TableWare  0h 1m 18s   
+4d PM 5h 19m 3s   Eat  0h 19m 2s   
+4d PM 5h 38m 6s   Relax  1h 12m 42s   
+4d PM 6h 50m 49s   Go to Toilet  0h 1m 0s   
+4d PM 6h 51m 49s   Relax  2h 9m 20s   
+4d PM 9h 1m 10s   Read  1h 42m 15s   
+4d PM 10h 43m 26s   Clean  0h 23m 35s   
+4d PM 11h 7m 1s   Relax  0h 13m 44s   
+4d PM 11h 20m 46s   Take Food  0h 0m 50s   
+4d PM 11h 21m 36s   Cook  0h 10m 39s   
+4d PM 11h 32m 16s   Take TableWare  0h 1m 23s   
+4d PM 11h 33m 39s   Eat  0h 20m 14s   
+4d PM 11h 53m 53s   Relax  0h 43m 59s   
+5d AM 0h 37m 53s   Go to Toilet  0h 1m 0s   
+5d AM 0h 38m 54s   Relax  0h 45m 23s   
+5d AM 1h 24m 17s   Wash and Brush  0h 4m 42s   
+5d AM 1h 29m 0s   Sleep  7h 24m 39s   
+5d AM 8h 53m 40s   Wash and Brush  0h 4m 42s   
+5d AM 8h 58m 22s   Relax  0h 5m 30s   
+5d AM 9h 3m 53s   Watch TV  1h 0m 45s   
+5d AM 10h 4m 38s   Bath  0h 17m 9s   
+5d AM 10h 21m 48s   Dress up  0h 3m 4s   
+5d AM 10h 24m 52s   Wash Clothes  0h 0m 23s   
+5d AM 10h 25m 16s   Take Food  0h 0m 48s   
+5d AM 10h 26m 5s   Cook  0h 10m 17s   
+5d AM 10h 36m 22s   Take TableWare  0h 1m 20s   
+5d AM 10h 37m 42s   Eat  0h 19m 33s   
+5d AM 10h 57m 16s   Read  1h 41m 6s   
+5d PM 0h 38m 22s   Go to Toilet  0h 1m 2s   
+5d PM 0h 39m 25s   Dress up  0h 2m 20s   
+5d PM 0h 41m 45s   Go out  4h 7m 33s   
+5d PM 4h 49m 19s   Dress up  0h 2m 20s   
+5d PM 4h 51m 40s   Wash Clothes  0h 0m 23s   
+5d PM 4h 52m 4s   Take Food  0h 0m 49s   
+5d PM 4h 52m 53s   Cook  0h 10m 27s   
+5d PM 5h 3m 20s   Take TableWare  0h 1m 21s   
+5d PM 5h 4m 42s   Eat  0h 19m 51s   
+5d PM 5h 24m 34s   Sleep  0h 34m 4s   
+5d PM 5h 58m 38s   Read  2h 25m 1s   
+5d PM 8h 23m 40s   Go to Toilet  0h 1m 6s   
+5d PM 8h 24m 47s   Relax  1h 0m 33s   
+5d PM 9h 25m 20s   Clean  0h 25m 42s   
+5d PM 9h 51m 3s   Relax  1h 37m 56s   
+5d PM 11h 28m 59s   Take Food  0h 0m 49s   
+5d PM 11h 29m 48s   Cook  0h 10m 25s   
+5d PM 11h 40m 14s   Take TableWare  0h 1m 21s   
+5d PM 11h 41m 35s   Eat  0h 19m 49s   
